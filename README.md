@@ -24,7 +24,8 @@
 - **Hires. Fix**: Optimized image reconstruction using **R-ESRGAN 4x+ Anime6B** upscaler.
 - **Inpainting**: Precision-controlled regional regeneration for material physics.
 
-
+### 🚀 Featured Projects
+- **[AIGC-Prompt-Engineering-Lab](https://github.com/JohnsonZhanv2/AIGC-Prompt-Engineering-Lab)**:
 ---
 
 ### 📫 Contact Me
